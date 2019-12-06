@@ -392,7 +392,6 @@ class Game:
                 raise CatanException("Exception thrown by {}'s action.".format(player.name))
 
     def play_round(self):
-        print("IN PLAYROUDN")
         dice_rolls = []
         for player_i in self.order:
             player = self.players[player_i]
