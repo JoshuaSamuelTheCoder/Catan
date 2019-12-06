@@ -23,9 +23,9 @@ if can build settlement, check possible settlement locations and build at highes
 
 if can build road, find optimal possible settlement and build road to it
 
-	if no possible settlements to build to, then don't build road
+if no possible settlements to build to, then don't build road
 
-	optimal settlement: 
+optimal settlement: 
 
 if can buy card, then buy card
 
